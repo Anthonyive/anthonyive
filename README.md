@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 ## 🔨 Technologies & Tools
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat-&logo=Apple&logoColor=white)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat-&logo=Windows&logoColor=white)
+![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat-&logo=Ubuntu&logoColor=white)
+
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
