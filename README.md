@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](./images/portrait+wording.png)
+![header](./images/header-with-title.png)
 
 ## 🔨 Technologies & Tools
 ![](https://img.shields.io/badge/platform-macOS_|_Windows_|_Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
