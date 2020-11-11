@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 ![header](./images/header-with-title.png)
 
 ## 🔨 Technologies & Tools
-![](https://img.shields.io/badge/platform-macOS_|_Windows_|_Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/platform-macOSSpace|SpaceWindows_|_Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
