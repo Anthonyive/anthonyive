@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 
 ![header](./images/header-with-title.png)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anthonyive&theme=blue-green)](https://github.com/anthonyive/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anthonyive)](https://github.com/anthonyive/github-readme-stats)
 
 ## 🔨 Technologies & Tools
