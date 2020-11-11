@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![header](./images/header-with-title.png)
 
 ## 🔨 Technologies & Tools
-![](https://img.shields.io/badge/-macOS-informational?style=flat-square&logo=Apple&logoColor=white)
+![](https://img.shields.io/badge/%20-macOS-informational?style=flat-square&logo=Apple&logoColor=white)
 ![](https://img.shields.io/badge/-Windows-informational?style=flat-square&logo=Windows&logoColor=white)
 ![](https://img.shields.io/badge/-Ubuntu-informational?style=flat-square&logo=Ubuntu&logoColor=white)
 
