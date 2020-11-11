@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-LaTeX>-informational?style=flat&logo=LaTeX&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++>-informational?style=flat&logo=C++&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C>-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Elisp>-informational?style=flat&logo=GNU Emacs&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Elisp>-informational?style=flat&logo=GNU_Emacs&logoColor=white&color=2bbc8a)
