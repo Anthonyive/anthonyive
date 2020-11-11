@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Anthonyive/anthonyive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](./images/header.svg)
+![header](./images/header-with-title.png)
+
+## 🔨 Technologies & Tools
+![](https://img.shields.io/badge/platform-macOS_|_Windows_|_Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
