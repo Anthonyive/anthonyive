@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](./images/header-with-title.png)
+![header](./images/header.svg)
