@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [Mapping Uncanny Valley project](https://github.com/Anthonyive/Research-Mapping-Uncanny-Valley.git) at USC and my personal website (open-source once deployed).
 - 🌱 I’m currently learning Data Science and Web Development.
 - 👯 I’m looking to collaborate on any open source project.
-- 🤔 I’m looking for help with NLP and Blog Development
+- 🤔 I’m looking for help with NLP and Blog Development.
 - 📫 How to reach me: [email me](mailto:yzhang71@usc.edu)
 - 😄 Pronouns: He/Him/His
 - ✍️ 2021 Goals: Contribute more to Open Source projects and receive offer(s) from FAANG.
