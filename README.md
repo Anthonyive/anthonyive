@@ -15,6 +15,15 @@ Here are some ideas to get you started:
 
 ![header](./images/header-with-title-bg-color-1.png)
 
+### Hi there, I'm Yuchen 👋️
+
+## I'm a Student, Developer, and Data Science Enthusiast!
+- 🎒️ I'm currently working on Mapping Uncanny Valley project at USC and my personal website (open-source once deployed).
+- I'm always learning everything.
+- I'm looking to collaborate with other developers
+- 2021 Goals: Contribute more to Open Source projects and receive offer(s) from FAANG.
+- Fun Fact: I love leather working and I enjoy building my own pc "battlestations".
+
 ## 🔨 Technologies & Tools
 ![](https://img.shields.io/badge/macOS-informational?style=flat-square&logo=Apple&logoColor=white)
 ![](https://img.shields.io/badge/Windows-informational?style=flat-square&logo=Windows&logoColor=white)
