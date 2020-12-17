@@ -32,5 +32,11 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Windows-informational?style=flat-square&logo=Windows&logoColor=white)
 ![](https://img.shields.io/badge/Ubuntu-informational?style=flat-square&logo=Ubuntu&logoColor=white)
 
-[![Anthonyive's github stats](https://github-readme-stats.vercel.app/api?username=anthonyive)](https://github.com/anthonyive/github-readme-stats)
+<details>
+  <summary>More Stats about Me
+    
+  [![Anthonyive's github stats](https://github-readme-stats.vercel.app/api?username=anthonyive)](https://github.com/anthonyive/github-readme-stats)
+    
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyive)](https://github.com/anthonyive/github-readme-stats)
 
+</details>
