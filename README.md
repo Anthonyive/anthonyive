@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Ubuntu-informational?style=flat-square&logo=Ubuntu&logoColor=white)
 
 <details>
-  <summary>More Stats about Me
+  <summary>More Stats about Me</summary>
     
   [![Anthonyive's github stats](https://github-readme-stats.vercel.app/api?username=anthonyive)](https://github.com/anthonyive/github-readme-stats)
     
