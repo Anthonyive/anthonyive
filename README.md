@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Hi there, I'm Yuchen 👋️
 
 ## I'm a Student, Developer, and Data Science Enthusiast!
-- 🔭 I’m currently working on Mapping Uncanny Valley project at USC and my personal website (open-source once deployed).
+- 🔭 I’m currently working on [Mapping Uncanny Valley project](https://github.com/Anthonyive/Research-Mapping-Uncanny-Valley.git) at USC and my personal website (open-source once deployed).
 - 🌱 I’m currently learning Data Science and Web Development.
 - 👯 I’m looking to collaborate on any open source project.
 - 🤔 I’m looking for help with NLP and Blog Development
@@ -32,4 +32,5 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Windows-informational?style=flat-square&logo=Windows&logoColor=white)
 ![](https://img.shields.io/badge/Ubuntu-informational?style=flat-square&logo=Ubuntu&logoColor=white)
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
