@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 - 🤪 Fun fact: I love leather working and I enjoy building my own pc "battlestations".
 
 ## 🔨 Technologies & Tools
-![](https://img.shields.io/badge/macOS-informational?style=flat-square&logo=Apple&logoColor=white)
-![](https://img.shields.io/badge/Windows-informational?style=flat-square&logo=Windows&logoColor=white)
-![](https://img.shields.io/badge/Ubuntu-informational?style=flat-square&logo=Ubuntu&logoColor=white)
+[<img align="left" alt="macOS" width="26px" src="src/mac.png" />]()
+[<img align="left" alt="ubuntu" width="26px" src="src/ubuntu.png" />]()
+[<img align="left" alt="windows" width="26px" src="src/windows.png" />]()
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()
 [<img align="left" alt="Python" width="26px" src="src/python/python_32x32.png" />]()
