@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <br></br>
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/acast.svg" />]()
 [<img align="left" alt="Python" width="26px" src="src/python/python_32x32.png" />]()
 [<img align="left" alt="R" width="26px" src="src/r/r_32x32.png" />]()
 [<img align="left" alt="C" width="26px" src="src/cpp/cpp_32x32.png" />]()
