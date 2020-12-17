@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Windows-informational?style=flat-square&logo=Windows&logoColor=white)
 ![](https://img.shields.io/badge/Ubuntu-informational?style=flat-square&logo=Ubuntu&logoColor=white)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anthonyive's github stats](https://github-readme-stats.vercel.app/api?username=anthonyive)](https://github.com/anthonyive/github-readme-stats)
 
