@@ -49,17 +49,21 @@ Here are some ideas to get you started:
 
 ### Databases
 
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]()
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]()
-[<img align="left" alt="MySQL" width="26px" src="https://hadoop.apache.org/elephant.png" />](hadoop)
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](sql)
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />](mysql)
+[<img align="left" alt="Hadoop" width="26px" src="https://hadoop.apache.org/elephant.png" />](hadoop)
+[<img align="left" alt="Spark" width="26px" src="https://spark.apache.org/images/spark-logo-trademark.png" />](spark)
 
 <br></br>
 
 ### Other Tools
 
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]()
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]()
-[<img align="left" alt="Markdown" width="26px" src="https://camo.githubusercontent.com/6ae487ec56908a6fea7e7f58bb04f09786fc25954ac2a41dceb69b6a2c61b5c5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6d61726b646f776e2e737667" />]()
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](github)
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](terminal)
+[<img align="left" alt="bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />](bash)
+[<img align="left" alt="zsh" width="26px" src="https://ohmyz.sh/img/OMZLogo_BnW.png" />](zsh)
+[<img align="left" alt="Markdown" width="26px" src="https://camo.githubusercontent.com/6ae487ec56908a6fea7e7f58bb04f09786fc25954ac2a41dceb69b6a2c61b5c5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6d61726b646f776e2e737667" />](markdown)
+[<img align="left" alt="latex" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" />](latex)
 
 <br></br>
 <details>
