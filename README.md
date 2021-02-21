@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Yuchen 👋️
 
-## I'm a Student, Developer, and Data Science Enthusiast!
+## I'm a Student, Researcher, and Data Science Enthusiast!
 - 🔭 I’m currently working on [Mapping Uncanny Valley project](https://github.com/Anthonyive/Research-Mapping-Uncanny-Valley.git) at USC and my personal website (open-source once deployed).
 - 🌱 I’m currently learning Data Science and Web Development.
 - 👯 I’m looking to collaborate on any open source project.
