@@ -70,6 +70,8 @@ Here are some ideas to get you started:
 [<img align="left" alt="PyTorch" width="26px" src="https://pytorch.org/assets/images/pytorch-logo.png" />](pytorch)
 [<img align="left" alt="Flask" width="26px" src="src/flask.png" />](flask)
 [<img align="left" alt="bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />](bootstrap)
+[<img align="left" alt="" width="26px" src="" />]()
+[<img align="left" alt="" width="26px" src="" />]()
 
 
 <br></br>
