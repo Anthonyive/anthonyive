@@ -71,8 +71,6 @@ Here are some ideas to get you started:
 </tbody>
 </table>
 
-
-<br></br>
 <details>
   <summary>More Stats about Me</summary>
     
