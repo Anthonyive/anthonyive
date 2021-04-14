@@ -73,9 +73,7 @@ Here are some ideas to get you started:
 
 <details>
   <summary>More Stats about Me</summary>
-    
-  [![Anthonyive's github stats](https://github-readme-stats.vercel.app/api?username=anthonyive)](https://github.com/anthonyive/github-readme-stats)
-    
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyive)](https://github.com/anthonyive/github-readme-stats)
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anthonyive&bg_color=30,833ab4,fd1d1d,fcb045&title_color=fff&text_color=fff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyive&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 
 </details>
