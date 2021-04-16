@@ -71,6 +71,8 @@ Here are some ideas to get you started:
 </tbody>
 </table>
 
+![](https://hit.yhype.me/github/profile?user_id=8257285)
+
 <details>
   <summary>More Stats about Me</summary>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=anthonyive&bg_color=30,833ab4,fd1d1d,fcb045&title_color=fff&text_color=fff" />
