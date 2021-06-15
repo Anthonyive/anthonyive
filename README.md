@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=anthonyive&color=green&style=flat-square)
 
 ## I'm a Student, Researcher, and Data Science Enthusiast!
-- 🔭 I’m currently working on [Mapping Uncanny Valley project](https://github.com/Anthonyive/Research-Mapping-Uncanny-Valley.git) at USC.
+- 🔭 I’m currently working with CarmaCam at USC.
 - 🌱 I’m currently learning Data Science, Web & Software Development.
 - 👯 I’m looking to collaborate on any open source project.
-- 🤔 I’m looking for help with NLP.
+- 🤔 I’m looking for help with algorithms and web development.
 - 📫 How to reach me: [email me](mailto:anthony.yuchen@gmail.com)
 - 😄 Pronouns: He/Him/His
 - ✍️ 2021 Goals: Contribute more to open source projects and receive offer(s) from FAANG.
