@@ -16,7 +16,7 @@ I'm a graduate student at the University of Southern California majoring in Appl
 
 ## Resources
 - Email: anthony.yuchen@gmail.com
-- Blog: [anthonyive.github.io/blog](anthonyive.github.io/blog)
+- Blog: [anthonyive.github.io/blog](https://anthonyive.github.io/blog/)
 - LinkedIn: [linkedin.com/in/anthonyive](https://www.linkedin.com/in/anthonyive)
 - Resume: [Download PDF](https://github.com/Anthonyive/resume/releases/latest/download/resume.pdf)
 
