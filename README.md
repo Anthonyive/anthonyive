@@ -4,7 +4,7 @@
 
 I'm a graduate student at the University of Southern California majoring in Applied Data Science. I enjoy working on open-source projects.
 
-- 🔭 I’m currently working with CarmaCam.
+- 🔭 I’m currently working with [CarmaCam](http://www.carma-cam.com).
 - 🌱 I’m currently learning CI/CD, Web Development, and Algorithms.
 - 👯 I’m looking to collaborate on NLP projects or any Python open-source projects.
 - 🤔 I’m looking for help with interviews.
