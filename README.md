@@ -1,6 +1,6 @@
 ![header](header.png)
 
-<br></br>
+<br>
 
 I'm a graduate student at the University of Southern California majoring in Applied Data Science. I enjoy working on open-source projects.
 
@@ -12,7 +12,7 @@ I'm a graduate student at the University of Southern California majoring in Appl
 - 😄 Pronouns: He/His 
 - ⚡ Fun fact: I never majored in Computer Science.
 
-<br></br>
+<br>
 
 ## Resources
 - Email: anthony.yuchen@gmail.com
@@ -20,7 +20,7 @@ I'm a graduate student at the University of Southern California majoring in Appl
 - LinkedIn: [linkedin.com/in/anthonyive](https://www.linkedin.com/in/anthonyive)
 - Resume: [Download PDF](https://github.com/Anthonyive/resume/releases/latest/download/resume.pdf)
 
-<br></br>
+<br>
 
 [![Visits Badge](https://badges.pufler.dev/visits/anthonyive/anthonyive)](https://badges.pufler.dev)
 [![Updated Badge](https://badges.pufler.dev/updated/anthonyive/anthonyive)](https://badges.pufler.dev)
