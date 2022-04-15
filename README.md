@@ -5,7 +5,7 @@
 I'm a graduate student at the University of Southern California majoring in Applied Data Science. I enjoy working on open-source projects.
 
 - 🔭 I’m currently working on personal projects.
-- 🌱 I’m currently learning CI/CD, Web Development, and Algorithms.
+- 🌱 I’m currently learning Java (or Go).
 - 👯 I’m looking to collaborate on NLP projects or any Python open-source projects.
 - 🤔 I’m looking for help with interviews.
 - 💬 Ask me about leather working, technology histories, and Apple computers.
