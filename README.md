@@ -2,15 +2,32 @@
 
 <br>
 
-I'm a graduate student at the University of Southern California majoring in Applied Data Science. I enjoy working on open-source projects.
+## Education
+
+- M.S. in Applied Data Science @ USC
+- B.S. in Applied Mathematics with a minor in Statistics @ UCLA
+
+<br>
+
+## About Me
 
 - 🔭 I’m currently working on personal projects.
-- 🌱 I’m currently learning Java (or Go).
-- 👯 I’m looking to collaborate on NLP projects or any Python open-source projects.
+- 🌱 I’m currently learning [CS61B - Data Structures from Berkeley](https://sp21.datastructur.es/index.html) (Java). Check out my [learning process](https://github.com/Anthonyive/Self-Learning.git).
+- 👯 I’m looking to collaborate on NLP projects or any Python/Java open-source projects.
 - 🤔 I’m looking for help with interviews.
 - 💬 Ask me about leather working, technology histories, and Apple computers.
 - 😄 Pronouns: He/His 
-- ⚡ Fun fact: I never majored in Computer Science.
+- ⚡ Fun fact: I'm from Beijing, China.
+
+<br>
+
+## Skills
+- Topics: Natural Language Processing (NLP), Machine Learning, Data Mining/Big Data, Data Science, Statistics 
+- Programming Languages:
+  - 3+ years exp. with Python
+  - Basic knowledge: Java, R, C++, Bash, etc.
+- Database Management: SQLite, MySQL, MongoDB, Amazon DynamoDB, Firebase, Hadoop HDFS
+- Tools: PyTorch, TensorFlow, scikit-learn, GitHub, Pandas, PySpark, Distributed Systems, MapReduce, Algorithms, etc.
 
 <br>
 
