@@ -40,8 +40,7 @@
 
 <br>
 
-[![Visits Badge](https://badges.pufler.dev/visits/anthonyive/anthonyive)](https://badges.pufler.dev)
-[![Updated Badge](https://badges.pufler.dev/updated/anthonyive/anthonyive)](https://badges.pufler.dev)
+![](https://komarev.com/ghpvc/?username=anthonyive)
 
 <!-- ## Metrics
 
