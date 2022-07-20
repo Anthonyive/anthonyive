@@ -40,7 +40,7 @@
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=anthonyive)
+![](https://komarev.com/ghpvc/?username=anthonyive&style=flat-square)
 
 <!-- ## Metrics
 
