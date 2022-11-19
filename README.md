@@ -12,10 +12,10 @@
 ## About Me
 
 - 🔭 I’m currently working on personal projects.
-- 🌱 I’m currently learning [CS61B - Data Structures from Berkeley](https://sp21.datastructur.es/index.html) (Java). Check out my [learning process](https://github.com/Anthonyive/Self-Learning.git).
+- 🌱 I’m currently learning [VLSI](https://en.wikipedia.org/wiki/Very_Large_Scale_Integration).
 - 👯 I’m looking to collaborate on NLP projects or any Python/Java open-source projects.
-- 🤔 I’m looking for help with interviews.
-- 💬 Ask me about leather working, technology histories, and Apple computers.
+- 🤔 I’m looking for help with [VLSI](https://en.wikipedia.org/wiki/Very_Large_Scale_Integration).
+- 💬 Ask me about leather working, broadgames, and computers.
 - 😄 Pronouns: He/His 
 - ⚡ Fun fact: I'm from Beijing, China.
 
